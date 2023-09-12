@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A french student in computers science</h3>
 
-
-
 - 📫 How to reach me **quentin161204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
