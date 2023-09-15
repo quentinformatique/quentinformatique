@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Quentinou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quentinou" height="30" width="40" /></a>
+<a href="https://discord.gg/Quentinou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quentinou" height="30" width="40" /> Discord</a>
 <br/> 
 - 📫 quentin161204@gmail.com
 </p>
