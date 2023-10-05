@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A french student in computer science at the University Institute of Technology in Rodez</h3>
+<h3 align="center"><a href"https://www.iut-rodez.fr/fr">A french student in computer science at the University Institute of Technology in Rodez</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentinformatique&label=Profile%20views&color=0e75b6&style=flat" alt="quentinformatique" /> </p>
 
