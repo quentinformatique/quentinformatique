@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinformatique&show_icons=true&locale=en&layout=compact&theme=dark" alt="quentinformatique" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quentinformatique&show_icons=true&locale=en" alt="quentinformatique" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quentinformatique&show_icons=true&locale=en&theme=dark" alt="quentinformatique" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quentinformatique" alt="quentinformatique" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=quentinformatique" alt="quentinformatique" /></a> </p>
 
