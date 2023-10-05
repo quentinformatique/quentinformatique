@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quentinformatique&show_icons=true&locale=en" alt="quentinformatique" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quentinformatique&" alt="quentinformatique" /></p>
