@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentinformatique&label=Profile%20views&color=0e75b6&style=flat" alt="quentinformatique" /> </p>
 
 
-- 🔭 I’m currently working on [cubeSolver](https://github.com/quentinformatique/cubeSolver)
+- 🔭 I’m currently working on [Cuby](https://github.com/quentinformatique/Cuby)
 
 - 🌱 I’m currently learning **electron js, tailwind, react**
 
