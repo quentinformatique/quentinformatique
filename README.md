@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Cuby](https://github.com/quentinformatique/Cuby)
 
-- 🌱 I’m currently learning **electron js, tailwind, react**
+- 🌱 I’m currently learning **electron js, tailwind**
 
 - 🤝 I’m looking for help with **Electron js**
 
