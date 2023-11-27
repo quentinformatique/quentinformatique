@@ -2,6 +2,8 @@
 
 ### A french student in computer science at the [University Institute of Technology of Rodez](https://www.iut-rodez.fr)
 
+#### my portfolio : <a href="costesquentin.fr" target="blank">costesquentin.fr</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentinformatique&label=Profile%20views&color=0e75b6&style=flat" alt="quentinformatique" /> </p>
 
 
