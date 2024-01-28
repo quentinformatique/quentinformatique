@@ -4,13 +4,8 @@
 
 ### my portfolio : [costesquentin.fr](https://costesquentin.fr/)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=quentinformatique&label=Profile%20views&color=0e75b6&style=flat" alt="quentinformatique" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/quentin-costes-1595222a0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="quentin costes"/></a>
-<a href="https://discord.gg/Quentinou" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Quentinou" /></a>
-<a href="mailto:quentin161204@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<h3 align="left">Contact me:</h3>
+<a href="https://discord.com/users/476476029595287552" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Quentinou" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +23,9 @@
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=quentinformatique&label=Profile%20views&color=0e75b6&style=flat" alt="quentinformatique" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinformatique&show_icons=true&locale=en&layout=compact&theme=dark" alt="quentinformatique" /></p>
