@@ -6,11 +6,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=quentinformatique&label=Profile%20views&color=0e75b6&style=flat" alt="quentinformatique" /></p>
 
-
-- 🔭 I’m currently working on [Cuby](https://github.com/quentinformatique/Cuby)
-
-- 👨‍💻 All of my projects are available at [https://github.com/quentinformatique?tab=repositories](https://github.com/quentinformatique?tab=repositories)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/quentin-costes-1595222a0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="quentin costes"/></a>
