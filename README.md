@@ -14,9 +14,10 @@
 
 <h3 align="left">📈 My GitHub Stats</h3>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=quentinformatique&show_icons=true&locale=en&theme=dark" alt="quentinformatique" /></p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinformatique&show_icons=true&locale=en&layout=compact&theme=dark" alt="quentinformatique" /></p>
+![](https://raw.githubusercontent.com/quentinformatique/github_stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/quentinformatique/github_stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/quentinformatique/github_stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/quentinformatique/github_stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 <h3 align="left">🏆 GitHub Profile Trophy</h3>
