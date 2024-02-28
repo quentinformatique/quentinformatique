@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A Computer Science student at the University Institute of Technology of Rodez</h3>
+<h3 align="center">A Computer Science student at the University Institute of Technology of Rodez (France)</h3>
 
 - 🌱 I’m currently learning **VueJS**, **TypeScript**, **ElectronJS**
 - 👨‍💻 my mains projects are shown in my portfolio : [costesquentin.fr](https://costesquentin.fr/)
