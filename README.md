@@ -3,15 +3,21 @@
 
 - 🌱 I’m currently learning **VueJS**, **TypeScript**, **ElectronJS**
 - 👨‍💻 my mains projects are shown in my portfolio : [costesquentin.fr](https://costesquentin.fr/)
-- 📫 How to reach me [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/476476029595287552)
+- 📫 How to reach me :
 
-<h3 align="left">⌨️ Languages and Tools:</h3>
+    [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/476476029595287552)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,nodejs,figma,vue,git,bash,bootstrap,electron,firebase,grafana,jquery,linux,windows,md,mongodb,mysql,npm,php,pinia,postman,powershell,py,regex,sass,tailwind,vite,)](https://skillicons.dev)
+<h3 align="left">⌨️ Languages / Tools used:</h3>
 
-<h3 align="left">🛠️ IDEs / Tools used</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,figma,bash,firebase,grafana,linux,windows,git,md,mongodb,mysql,php,postman,powershell,py,regex,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,idea,phpstorm,webstorm,pycharm,vscode,)](https://skillicons.dev)
+<h3 align="left">💻 frameworks / libraries used:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vue,bootstrap,electron,jquery,npm,pinia,sass,tailwind,vite)](https://skillicons.dev)
+
+<h3 align="left">🛠️ IDEs used</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,idea,androidstudio,phpstorm,webstorm,pycharm,)](https://skillicons.dev)
 
 <h3 align="left">📈 My GitHub Stats</h3>
 
