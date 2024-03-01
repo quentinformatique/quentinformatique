@@ -15,7 +15,7 @@
 
 <h3 align="left">🛠️ IDEs used</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,androidstudio,idea,phpstorm,webstorm,pycharm,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,eclipse,vscode,androidstudio,idea,phpstorm,webstorm,pycharm,)](https://skillicons.dev)
 
 <h3 align="left">📈 My GitHub Stats</h3>
 
