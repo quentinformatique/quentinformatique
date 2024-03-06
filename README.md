@@ -11,7 +11,7 @@
 
 <h3 align="left">💻 frameworks / libraries used:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,npm,vue,pinia,vite,jquery,sass,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,npm,vue,vite,jquery,sass,bootstrap,tailwind)](https://skillicons.dev)
 
 <h3 align="left">🛠️ IDEs used</h3>
 
