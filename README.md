@@ -7,7 +7,7 @@
 
 <h3 align="left">⌨️ Languages / Tools used:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,py,php,bash,powershell,gradle,git,npm,md,mongodb,mysql,firebase,sqlite,grafana,linux,windows,postman,figma,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,py,php,bash,powershell,gradle,maven,git,npm,md,mongodb,mysql,firebase,sqlite,grafana,linux,ubuntu,windows,postman,figma,regex)](https://skillicons.dev)
 
 <h3 align="left">💻 frameworks / libraries used:</h3>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">🛠️ IDEs used</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,eclipse,vscode,androidstudio,idea,phpstorm,webstorm,pycharm,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,eclipse,vscode,androidstudio,idea,phpstorm,webstorm,pycharm,obsidian,sublime)](https://skillicons.dev)
 
 <h3 align="left">📈 My GitHub Stats</h3>
 
