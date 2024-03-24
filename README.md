@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A Computer Science student at the University Institute of Technology of Rodez (France)</h3>
 
-- 🌱 I’m currently learning **VueJS**, **TypeScript**
+- 🌱 I’m currently learning **VueJS**, **TypeScript**, **C#** and **.NET**
 - 👨‍💻 my mains projects are shown in my portfolio : [costesquentin.fr](https://costesquentin.fr/)
 - 📫 How to reach me [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/476476029595287552)
 
