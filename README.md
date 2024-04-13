@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,eclipse,vscode,visualstudio,androidstudio,idea,phpstorm,webstorm,pycharm)](https://skillicons.dev)
 
-<h3 align="left">🛠️ Softwares / Tools used</h3>
+<h3 align="left">⚙️ Softwares / Tools used</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=azure,github,postman,grafana,figma,firebase)](https://skillicons.dev)
 
