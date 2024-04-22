@@ -19,7 +19,7 @@
 
 <h3 align="left">⚙️ Softwares / Tools used</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,github,postman,grafana,figma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,azure,github,grafana,figma,firebase)](https://skillicons.dev)
 
 <h3 align="left">📈 My GitHub Stats</h3>
 
