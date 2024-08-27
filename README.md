@@ -2,6 +2,7 @@
 <h3 align="center">A Computer Science student at the University Institute of Technology of Rodez (France)</h3>
 
 - 🌱 I’m currently learning  **C#**, **.NET**
+- 🛠️ I'm curently working on Cuby
 - 📫 How to reach me [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/476476029595287552)
 
 <h3 align="left">⌨️ Languages / Tools used:</h3>
