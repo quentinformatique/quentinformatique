@@ -7,7 +7,7 @@
 
 <h3 align="left">⌨️ Languages / Tools used:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,net,java,py,php,bash,powershell,gradle,maven,npm,md,mongodb,mysql,sqlite,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,net,java,py,php,bash,powershell,gradle,maven,npm,md,mongodb,mysql,sqlite,postgresql,regex)](https://skillicons.dev)
 
 <h3 align="left">💻 frameworks / libraries used:</h3>
 
