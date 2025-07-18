@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A Computer Science student at the University Institute of Technology of Rodez (France)</h3>
+<h3 align="center">A Computer Science student at EPITECH Toulouse (France)</h3>
 
 - 🌱 I’m currently learning  **C#** and **.NET**
 - 🛠️ I'm curently working on Cuby, an Electron js based Rubik's cube app, with a timer, stats, ... I'm working on the auto-solver tool wich includes 2 APIs and an Reactjs phone client to scan the cube.
